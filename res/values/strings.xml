@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Fit durch den Tag</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Fit durch den Tag</string>
+    <string name="todo_delete_message">Delete?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_edit_to_do">EditToDoActivity</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+</resources>
