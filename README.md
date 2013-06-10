@@ -4,6 +4,17 @@ This is a sample Android TODO app build by [@j3nsm4n](https://github.com/j3nsm4n
 
 The app is a simplified version of "Fit durch den Tag". An app concept developed by the LIMES MyApp Contest 2012 winners Annemarie Brockmann, Jan-Philip Friebel, Paul Schueller, Amila Weiler, Jessica Winkler und Florian Wirschem (Hilda Gymnasium, Koblenz, Germany).
 
+##Screenshots
+![fit durch den tag screenshot 1](docs/screen_1.png "Fit durch den tag list]")
+![fit durch den tag screenshot 2](docs/screen_2.png "Fit durch den tag delete item]")
+
+
+##App Icon
+
+[Fit durch den Tag App Icon](docs/fit.ai "Fit durch den tag app icon]")
+<br>
+To open/edit the app icon use Adobe Illustrator.
+
 ---
 
 ##Installation Guide
@@ -17,6 +28,15 @@ The app is a simplified version of "Fit durch den Tag". An app concept developed
 * beside the first textbox (`Root Directory`) click on `Browse..`
 * select the root of your cloned repository
 * hit the run button! :)
+
+---
+
+Die App ist auch im Google Play Store für Android Smartphones verfügbar.
+
+<a href="https://play.google.com/store/apps/details?id=me.particulate.limes.fddt">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/de_generic_rgb_wo_45.png" />
+</a>
 
 ---
 
