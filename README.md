@@ -11,7 +11,7 @@ The app is a simplified version of "Fit durch den Tag". An app concept developed
 
 ##App Icon
 
-[Fit durch den Tag App Icon](docs/fit.ai "Fit durch den tag app icon]")
+[Fit durch den Tag App Icon](docs/fit.ai.zip "Fit durch den tag app icon]")
 <br>
 To open/edit the app icon use Adobe Illustrator.
 
